@@ -1,0 +1,10 @@
+C:\Users\Алексей\source\repos\Praktika_ychebnaya\Praktika_ychebnaya\bin\Debug\Praktika_ychebnaya.exe.config
+C:\Users\Алексей\source\repos\Praktika_ychebnaya\Praktika_ychebnaya\bin\Debug\Praktika_ychebnaya.exe
+C:\Users\Алексей\source\repos\Praktika_ychebnaya\Praktika_ychebnaya\bin\Debug\Praktika_ychebnaya.pdb
+C:\Users\Алексей\source\repos\Praktika_ychebnaya\Praktika_ychebnaya\obj\Debug\Praktika_ychebnaya.csprojAssemblyReference.cache
+C:\Users\Алексей\source\repos\Praktika_ychebnaya\Praktika_ychebnaya\obj\Debug\Praktika_ychebnaya.MainForm.resources
+C:\Users\Алексей\source\repos\Praktika_ychebnaya\Praktika_ychebnaya\obj\Debug\Praktika_ychebnaya.Properties.Resources.resources
+C:\Users\Алексей\source\repos\Praktika_ychebnaya\Praktika_ychebnaya\obj\Debug\Praktika_ychebnaya.csproj.GenerateResource.cache
+C:\Users\Алексей\source\repos\Praktika_ychebnaya\Praktika_ychebnaya\obj\Debug\Praktika_ychebnaya.csproj.CoreCompileInputs.cache
+C:\Users\Алексей\source\repos\Praktika_ychebnaya\Praktika_ychebnaya\obj\Debug\Praktika_ychebnaya.exe
+C:\Users\Алексей\source\repos\Praktika_ychebnaya\Praktika_ychebnaya\obj\Debug\Praktika_ychebnaya.pdb
